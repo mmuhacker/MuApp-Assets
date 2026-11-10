@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 File Scanner & Checker
+# شرح إستخراج مفاتيح واجهة برمجة التطبيقات API
 
 # 🔍 فاحص الأكواد المشبوهة
 
