@@ -29,13 +29,28 @@ padding: 5px;">
 <i style="color: var(--color-fg-default);">الشكل 1: الضغط على زر إنشاء مفتاح API</i>
 
 </div>
+
 ---
 
 **الخطوة الثالثة**
 
+تسمية المفتاح وإنشاؤه
 - أ. تكتب هنا اسم للمفتاح 
--إذا عندك مشروع تحب تضيف المفتاح فيه أنا تركته مثل ما  هو 
+- بـ. إذا عندك مشروع تحب تضيف المفتاح فيه أنا تركته مثل ما هو
 - جـ. تضغط هنا
+
+<img src="img/P4.jpg"
+width="90%"
+style="border-radius: 20px;
+border: 2px solid var(--color-border-default);
+box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+background: var(--color-canvas-default);
+padding: 5px;">
+
+---
+
+<i style="color: var(--color-fg-default);">الشكل 1: الضغط على زر إنشاء مفتاح API</i>
+
 [٩‏/١١، ١:٢٢ ص] Muhannad Daher: ٤. تضغط هنا تنسخ الـ API وبعدها تقفل من الـ ×
 [٩‏/١١، ١:٢٤ ص] Muhannad Daher: ٦. طبعاً يكون المفتاح موجود في نفس الصفحة مثل كذا وإذا ما نسخت المفتاح تقدر تنسخه مرة ثانية من هنا
 [٩‏/١١، ١:٢٤ ص] Muhannad Daher: ⚠️ أهم شيء هذا المفتاح خاص بك ولا تعطيه لأي شخص
