@@ -18,13 +18,15 @@
 **الخطوة الثانية**
 بعد ما تسجل دخولك تضغط هنا
 
-<img src="img/P3.jpg"
+<img src="img/P1.jpg"
 width="90%"
 style="border-radius: 20px;
 border: 2px solid var(--color-border-default);
 box-shadow: 0 8px 16px rgba(0,0,0,0.2);
 background: var(--color-canvas-default);
 padding: 5px;">
+
+<i style="color: var(--color-fg-default);">الشكل 1: الضغط على زر إنشاء مفتاح API</i>
 
 </div>
 [٩‏/١١، ١:١٩ ص] Muhannad Daher: ٣. أ. تكتب هنا اسم للمفتاح 
