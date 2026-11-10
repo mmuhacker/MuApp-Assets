@@ -18,7 +18,7 @@
 **الخطوة الثانية**
 بعد ما تسجل دخولك تضغط هنا
 
-<img src="img/P1.jpg"
+<img src="img/P3.jpg"
 width="90%"
 style="border-radius: 20px;
 border: 2px solid var(--color-border-default);
