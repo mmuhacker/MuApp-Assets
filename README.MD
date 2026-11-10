@@ -4,31 +4,11 @@
 
 ---
 
-<div align="center">
-
-<img src="img/P1.jpg"
-width="90%"
-style="border-radius: 20px;
-border: 2px solid var(--color-border-default);
-box-shadow: 0 8px 16px rgba(0,0,0,0.2);
-background: var(--color-canvas-default);
-padding: 5px;">
-
+**الخطوة الأولى **
 </div>
 
----
-
-**📚 المحتويات**
-</div>
-
-- [نظرة عامة](#نظرة)
-- [المميزات](#المميزات)
-- [حالات الإستخدام](#حالات)
-- [مخرجات التحليل](#مخرجات)
-- [متطلبات التشغيل](#متطلبات)
-- [التثبيت والتشغيل](#تثبيت)
-  - [📲 تيرمكس](#تيرمكس)
-  - [🐧 لينكس](#لينكس)
+**الدخول إلى "Google AI Studio"**
+الخطوة الأولى هي التوجه إلى منصة "Google AI Studio" حيث يمكنك إدارة واستخراج مفاتيح "API" الخاصة بـ "Gemini". اضغط على الزر التالي:
 
 
 
