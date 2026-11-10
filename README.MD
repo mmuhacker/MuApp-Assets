@@ -4,13 +4,13 @@
 
 ---
 
-**الخطوة الأولى**
+<li>**الخطوة الأولى**</li>
 
 **الدخول إلى "Google AI Studio"**
 
 الخطوة الأولى هي التوجه إلى منصة "Google AI Studio" حيث يمكنك إدارة واستخراج مفاتيح "API" الخاصة بـ "Gemini". اضغط على الرابط التالي:
 
-<p>الدخول من هنا 👇<br><a href="https://mmuhacker.github.io/AppPolicies/الترجمة_الذكية.html" style="color: #fff; font-size: 0.80rem; font-weight: bold; margin-top: 10px; background-color: #2c2c2c; border-radius: 4px;">شرح إستخراج المفاتيح</a></p>
+<h>الدخول من هنا 👇</h><br><a href="https://mmuhacker.github.io/AppPolicies/الترجمة_الذكية.html" style="color: #fff; font-size: 0.80rem; font-weight: bold; margin-top: 10px; background-color: #2c2c2c; border-radius: 4px;">شرح إستخراج المفاتيح</a></p>
 
 ---
 
