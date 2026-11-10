@@ -9,7 +9,9 @@
 
 **الدخول إلى "Google AI Studio"**
 
-الخطوة الأولى هي التوجه إلى منصة "Google AI Studio" حيث يمكنك إدارة واستخراج مفاتيح "API" الخاصة بـ "Gemini". اضغط على الرابط الاتالي التالي:
+الخطوة الأولى هي التوجه إلى منصة "Google AI Studio" حيث يمكنك إدارة واستخراج مفاتيح "API" الخاصة بـ "Gemini". اضغط على الرابط التالي:
+
+<li><a href="https://aistudio.google.com/api-keys" data-lang="privacy_ar_review_link_ar">الدخول إلى "Google AI Studio"</a></li>
 
 https://aistudio.google.com/api-keys
 
