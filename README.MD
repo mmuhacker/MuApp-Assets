@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="img/p1.jpg"
+<img src="img/P1.jpg"
 width="90%"
 style="border-radius: 20px;
 border: 2px solid var(--color-border-default);
