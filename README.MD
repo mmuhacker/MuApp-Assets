@@ -67,7 +67,11 @@ box-shadow: 0 8px 16px rgba(0,0,0,0.2);
 background: var(--color-canvas-default);
 padding: 5px;">
 
-<i style="color: var(--color-fg-default);">الشكل 1: النسخ والإغلاق API</i>
+<i style="color: var(--color-fg-default);">الشكل 3: النسخ والإغلاق API</i>
+
+---
+## ملاحظة مهمة
+**⚠️ هذا المفتاح سري للغاية لا تقم بمشاركته مع أي شخص**
 
 ---
 
