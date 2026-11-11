@@ -35,7 +35,7 @@ box-shadow: 0 8px 16px rgba(0,0,0,0.2);
 background: var(--color-canvas-default);
 padding: 5px;">
 
-<i style="color: var(--color-fg-default);">الضغط على زر إنشاء مفتاح API</i>
+<i style="color: var(--color-fg-default);">الشكل 1: الضغط على زر إنشاء مفتاح API</i>
 
 ---
 
